@@ -1,0 +1,15 @@
+# Dev environment
+pip
+autopep8
+
+# App
+asgiref==3.7.2
+Django==5.0
+sqlparse==0.4.4
+typing_extensions==4.9.0
+
+# App functionality
+django-environ==0.11.2
+django-phonenumber-field==8.0.0
+pillow==10.4.0
+twilio==9.3.4
